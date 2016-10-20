@@ -2,4 +2,6 @@
 
 <div><span style="color:#ff0000;">W</span><span style="color:#ff1500;">e</span><span style="color:#ff2a00;">l</span><span style="color:#ff4000;">c</span><span style="color:#ff5500;">o</span><span style="color:#ff6a00;">m</span><span style="color:#ff7f00;">e</span><span style="color:#ff9900;"> </span><span style="color:#ffb200;">t</span><span style="color:#ffcc00;">o</span><span style="color:#ffe500;"> </span><span style="color:#ffff00;">B</span><span style="color:#d5ff00;">a</span><span style="color:#aaff00;">n</span><span style="color:#80ff00;">t</span><span style="color:#55ff00;">e</span><span style="color:#2bff00;">r</span><span style="color:#00ff00;"> </span><span style="color:#00ff33;">S</span><span style="color:#00ff66;">t</span><span style="color:#00ff99;">a</span><span style="color:#00ffcc;">t</span><span style="color:#00ffff;">i</span><span style="color:#00d5ff;">o</span><span style="color:#00aaff;">n</span><span style="color:#0080ff;"> </span><span style="color:#0055ff;">1</span><span style="color:#002bff;">3</span><span style="color:#0000ff;">!</span></div>
 
-<i>This server is running a /tg/station 13 Git build.</i>
+<i>This server is running a custom /tg/station 13 Git build.</i>
+
+<i>Enjoy your stay!</i>

@@ -265,9 +265,9 @@
 	desc = "Holder of the 'Most Lethal Barfights' record 5 years uncontested."
 
 /datum/barsign/emergencyrumparty
-	name = "The Emergency Rum Party"
+	name = "Shots! Shots! Shots!"
 	icon = "emergencyrumparty"
-	desc = "Recently relicensed after a long closure."
+	desc = "You know what to do."
 
 /datum/barsign/combocafe
 	name = "The Combo Cafe"
