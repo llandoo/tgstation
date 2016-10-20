@@ -285,9 +285,9 @@
 	desc = "This establishment does not serve stirred drinks."
 
 /datum/barsign/thealenath
-	name = "The Ale' Nath"
+	name = "Star Bar"
 	icon = "thealenath"
-	desc = "All right, buddy. I think you've had EI NATH. Time to get a cab."
+	desc = "This isn't even a good pun. What is this crap?"
 
 /datum/barsign/thealohasnackbar
 	name = "The Aloha Snackbar"
